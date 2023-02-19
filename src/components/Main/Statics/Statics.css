@@ -1,0 +1,8 @@
+.Statistic {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 4px #bbbbbb;
+    margin: 40px;
+    border-radius: 10px;
+}
